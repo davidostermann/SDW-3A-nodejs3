@@ -10,10 +10,7 @@ Express CORS mongodb MLab Heroku Hemmet
 * https://enable-cors.org/server_expressjs.html
 * https://www.manning.com/books/cors-in-action
 * https://m.alphasights.com/killing-cors-preflight-requests-on-a-react-spa-1f9b04aa5730
-
-MongoDB
-
-*
+* http://www.nodejsconnect.com/blog/articles/cross-origin-resource-sharing-javascript-frameworks
 
 
 
